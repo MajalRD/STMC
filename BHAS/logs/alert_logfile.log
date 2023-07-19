@@ -1,9 +1,0 @@
-2023-05-05 10:53:58,199 - ERROR - Error sending the email: local variable 'date' referenced before assignment
-2023-05-05 10:54:00,756 - ERROR - Error sending the email: local variable 'date' referenced before assignment
-2023-05-05 10:54:02,947 - ERROR - Error sending the email: local variable 'date' referenced before assignment
-2023-05-05 10:58:31,887 - ERROR - Error sending the email: local variable 'date' referenced before assignment
-2023-05-05 10:58:34,943 - ERROR - Error sending the email: local variable 'date' referenced before assignment
-2023-05-05 10:58:36,695 - ERROR - Error sending the email: local variable 'date' referenced before assignment
-2023-05-05 10:59:20,654 - ERROR - Error sending the email: local variable 'date' referenced before assignment
-2023-05-05 10:59:23,476 - ERROR - Error sending the email: local variable 'date' referenced before assignment
-2023-05-05 11:38:15,533 - ERROR - Error sending the email: 'list' object has no attribute 'encode'
